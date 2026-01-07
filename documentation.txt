@@ -1,0 +1,42 @@
+5. How to Use the App (User Instructions)
+
+Run:
+
+python image_annotator.py
+
+
+Click Load Image
+
+Choose a tool
+
+Draw on the image using mouse
+
+For Measure, click two points to see distance in pixels
+
+Click Save Image
+
+
+
+7. Limitations
+
+Measurement is in pixels only
+
+No undo/redo
+
+No zoom or pan
+
+One image at a time
+
+8. Future Improvements
+
+Add real-world calibration (cm/mm)
+
+Undo/Redo support
+
+Color selection
+
+Zoom and pan
+
+Export annotations as JSON/XML
+
+Package as .exe using PyInstaller
